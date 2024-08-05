@@ -1,0 +1,35 @@
+please prepare the project documentation  report of timesheet project which also give  the table of contents (topics we are going to use)
+
+by following these components please give the documentation format
+
+In this project 
+ 
+1----i have a login page which have a fields user id and password
+
+2----In this database, admin can register for employee,lead and manager with their id and password ,we having the models employee,projects,timesheet(which are to be
+register these details)
+
+3----Using the id and password(which can be already registered by the admin) login into corresponding page what we are going to redirect.
+
+4---- If we login into employee page it have the sidebar(in that dashboard,update timesheet,viewtimesheet,logout button are have)and in the dashboard shows
+ 
+welcome message with employee id ,update timesheet shows like calender it having the plus button on the on the date cell when we clicking it shows pop up message which having the inputs
+
+fields as date,start time,end time,project module,comments,and also having the fields project name which can be fetched from the database and then submit it ,after submitting it the plus button
+can be hide and it shows hover button when we hover it also shows submitted details and
+
+submitted details are shown in the view timesheet of employees and the logout from the employee dashboard.
+
+5----Then login to the lead dashboard using the id and password which can be already registered by the admin and redirect to lead dashboard page which contains the
+view timesheet which shows details of the employee's updated timesheet and also having the fields as total hours ,lead approval(this field having the approve 
+or reject button,when lead clicks the approve button it can be approved and it shows on the employee's view timesheet same as for the reject button).and it also having 
+filtering by date and employee id and also have show all button ,it shows all of the employees details,then logout from the lead dashboard page. 
+
+6----Then login to the manager dashboard using the id and password which can be already registered by the admin and redirect to manager dashboard page which contains the
+view timesheet which shows details of the employee's updated timesheet and also having the fields as total hours ,lead approval(this field having the approve 
+or reject button,when manager clicks the approve button it can be approved and it shows on the employee's view timesheet same as for the reject button).it also having 
+filtering by date and employee id and also have show all button ,it shows all of the employees details,then logout from the manager dashboard page. 
+
+7-----And we also calculating the total leave days ,only we update the details of the employees for the past five days only
+
+And then given detailed documentation report for the above prompt
